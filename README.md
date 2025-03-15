@@ -135,7 +135,7 @@ Green active tabs and highlights. Based on [Kanagawa Lotus](https://github.com/r
 
 ### Minimalist Kanagawa Dark
 
-![Minimalist-kanagawa](themes/minimalist-kanagawa-dark/minimalist-kanagawa-dark.png)
+![Minimalist-kanagawa-dark](themes/minimalist-kanagawa-dark/minimalist-kanagawa-dark.svg)
 
 ```Colours in use: Black: #1f1f28, White: #f2ecbc, Green: #597b75```
 

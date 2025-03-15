@@ -27,6 +27,7 @@
 - [Minimalist Solarized](#minimalist-solarized)
 - [Minimalist Rosé Pine](#minimalist-rosé-pine)
 - [Minimalist Kanagawa](#minimalist-kanagawa)
+- [Minimalist Kanagawa Dark](#minimalist-kanagawa-dark)
 - [Minimalist Ayu](#minimalist-ayu)
 - [Minimalist Black and Grey Tabs](#minimalist-black-and-grey-tabs)
 
@@ -129,6 +130,16 @@ Rose active tabs and highlights. Based on [Rosé Pine Dawn](https://github.com/r
 ```Colours in use: White: #f2ecbc, Black: #545464, Green: #597b75```
 
 Green active tabs and highlights. Based on [Kanagawa Lotus](https://github.com/rebelot/kanagawa.nvim). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-kanagawa/).
+    
+<br/>
+
+### Minimalist Kanagawa Dark
+
+![Minimalist-kanagawa](themes/minimalist-kanagawa-dark/minimalist-kanagawa-dark.png)
+
+```Colours in use: Black: #1f1f28, White: #f2ecbc, Green: #597b75```
+
+Green active tabs and highlights. Based on [Kanagawa Lotus](https://github.com/rebelot/kanagawa.nvim) and [Kanagawa Paper](https://github.com/thesimonho/kanagawa-paper.nvim). Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimalist-kanagawa-dark/).
     
 <br/>
 
